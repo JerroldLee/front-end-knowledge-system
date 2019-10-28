@@ -1,6 +1,8 @@
 # 前端知识体系
 
-性能优化
+
+
+## 性能优化
 
 Gzip
 
@@ -28,13 +30,13 @@ Lazy-Load
 
 LightHouse
 
-工程化
+## 工程化
 
 Webpack原理
 
 Webpack插件开发
 
-自动化测试
+## 自动化测试
 
 单元测试
 
@@ -44,7 +46,7 @@ Webpack插件开发
 
 功能测试
 
-算法数据结构
+## 算法数据结构
 
 常用排序算法
 
@@ -54,7 +56,7 @@ Webpack插件开发
 
 常用搜索算法
 
-设计模式
+## 设计模式
 
 单例模式
 
@@ -84,7 +86,7 @@ Webpack插件开发
 
 适配器模式
 
-架构设计
+## 架构设计
 
 工作流设计
 
@@ -104,7 +106,7 @@ Webpack插件开发
 
 演进式架构
 
-多端应用
+## 多端应用
 
 微信小程序
 
@@ -130,7 +132,7 @@ Taro
 
 Electron
 
-编译原理
+## 编译原理
 
 词法分析AST
 
@@ -138,7 +140,7 @@ Electron
 
 代码转换
 
-浏览器原理
+## 浏览器原理
 
 渲染机制
 
@@ -146,7 +148,7 @@ Electron
 
 同源策略
 
-可视化
+## 可视化
 
 canvas
 
@@ -154,7 +156,7 @@ svg
 
 WebGL
 
-网络协议
+## 网络协议
 
 HTTP
 
@@ -166,13 +168,13 @@ TCP/UDP
 
 IP
 
-代码管理
+## 代码管理
 
 git
 
 Eslint
 
-服务器端知识
+## 服务器端知识
 
 MySql
 
@@ -188,13 +190,13 @@ Docker
 
 Jenkins
 
-前端监控
+## 前端监控
 
 性能监控
 
 错误监控
 
-Web安全
+## Web安全
 
 XSS
 
@@ -206,7 +208,7 @@ Cookie劫持
 
 Oauth
 
-团队管理
+## 团队管理
 
 工程师发展路径
 
@@ -226,7 +228,7 @@ Oauth
 
 管理方法论
 
-NodeJs
+## NodeJs
 
 assert - 断言
 
@@ -318,7 +320,7 @@ ECMAScript 模块
 
 国际化支持
 
-Vue
+## Vue
 
 组件设计及通信
 
@@ -334,7 +336,7 @@ Vue-router
 
 Nuxt
 
-React
+## React
 
 组件化
 
@@ -352,7 +354,7 @@ React-router
 
 Next
 
-Angular
+## Angular
 
 内置过滤器
 
@@ -366,7 +368,7 @@ Angular
 
 常用路由库
 
-TypeScript
+## TypeScript
 
 基础类型
 
@@ -409,7 +411,7 @@ Mixins
 JavaScript文件类型检查
 
 
-Javascript
+## Javascript
 
 作用域
 
@@ -441,7 +443,7 @@ this对象
 
 垃圾回收机制
 
-HTML
+## HTML
 
 语义化
 
@@ -453,7 +455,7 @@ Doctype
 
  webSocket
 
-CSS
+## CSS
 
 盒子模型
 
@@ -467,7 +469,7 @@ flex布局
 
 伪类
 
-AI
+## AI
 
 Tensorflow.js
 
@@ -487,7 +489,7 @@ Deepfake(深度换脸)
 
 人机对话系统与自然语言处理
 
-VR/AR
+## VR/AR
 
 AR.js
 
@@ -497,7 +499,7 @@ React VR
 
 IdeaSpace
 
-IoT
+## IoT
 
 VxWorks
 
@@ -517,7 +519,7 @@ JerryScript
 
 Johnny-Five
 
-区块链
+## 区块链
 
 密码学
 
@@ -531,7 +533,7 @@ Johnny-Five
 
 P2P网络
 
-PWA
+## PWA
 
 Manifest
 
@@ -543,8 +545,17 @@ Cache API
 
 Background Sync
 
-WebAssembly
+## WebAssembly
 
 WebAssembly原理
 
 WebAssembly应用案例
+
+
+
+
+
+
+
+
+
