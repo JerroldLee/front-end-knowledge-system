@@ -497,6 +497,8 @@ flex布局
 
 ***CSS3中对溢出的处理***
 
+***CSS选择器及其优先级***
+
 ## AI
 
 Tensorflow.js
