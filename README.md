@@ -439,6 +439,8 @@ JavaScript文件类型检查
 
 ## Javascript
 
+***JS语言特性***
+
 作用域
 
 ***闭包***
