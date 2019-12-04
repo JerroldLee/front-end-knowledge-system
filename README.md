@@ -443,7 +443,7 @@ JavaScript文件类型检查
 
 原型链
 
-Promise
+***Promise***
 
 async及await
 
