@@ -150,11 +150,13 @@ Electron
 
 ## 浏览器原理
 
-渲染机制
+渲染机制 https://www.cxymsg.com/guide/browser.html#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E6%B8%B2%E6%9F%93ui%E7%9A%84%EF%BC%9F
 
 缓存机制
 
 同源策略
+
+浏览器主要组成 https://www.cxymsg.com/guide/browser.html#%E5%B8%B8%E8%A7%81%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8%E6%9C%89%E5%93%AA%E4%BA%9B
 
 ## 可视化
 
@@ -378,11 +380,11 @@ Hooks
 
 生命周期
 
-Redux
-
 React-router
 
 Next
+
+redux原理 https://www.cxymsg.com/guide/redux.html#redux%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F
 
 ## Angular
 
@@ -443,21 +445,21 @@ JavaScript文件类型检查
 
 ## Javascript
 
-***JS语言特性***
+JS语言特性
 
 作用域
 
-***闭包***
+闭包
 
 原型链
 
-***Promise***
+Promise
 
 async及await
 
 生成器
 
-***ES6新特性***
+ES6新特性
 
 ES7新特性
 
@@ -478,6 +480,10 @@ this对象
 垃圾回收机制
 
 vue编译原理 https://www.cnblogs.com/dhsz/p/8462227.html
+
+JavaScript内存管理 https://www.cxymsg.com/guide/memory.html#%E5%89%8D%E8%A8%80
+
+JavaScript运行机制 https://www.cxymsg.com/guide/mechanism.html#javascript%E7%9A%84%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83
 
 ## HTML
 
@@ -592,6 +598,10 @@ Background Sync
 WebAssembly原理
 
 WebAssembly应用案例
+
+## Webpack
+
+Webpack HMR原理 https://www.cxymsg.com/guide/WebpackHMR.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-hmr
 
 
 
