@@ -477,6 +477,8 @@ this对象
 
 垃圾回收机制
 
+vue编译原理 https://www.cnblogs.com/dhsz/p/8462227.html
+
 ## HTML
 
 语义化
