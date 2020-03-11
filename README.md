@@ -32,7 +32,7 @@ LightHouse
 
 ## 工程化
 
-Webpack原理
+Webpack HMR原理 https://www.cxymsg.com/guide/WebpackHMR.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-hmr
 
 Webpack插件开发
 
@@ -598,10 +598,6 @@ Background Sync
 WebAssembly原理
 
 WebAssembly应用案例
-
-## Webpack
-
-Webpack HMR原理 https://www.cxymsg.com/guide/WebpackHMR.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-hmr
 
 
 
