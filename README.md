@@ -36,6 +36,8 @@ Webpack HMR原理 https://www.cxymsg.com/guide/WebpackHMR.html#%E4%B8%BA%E4%BB%8
 
 Webpack插件开发
 
+Puppeteer https://github.com/puppeteer/puppeteer#readme
+
 ## 自动化测试
 
 单元测试
