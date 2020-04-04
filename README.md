@@ -228,7 +228,7 @@ Jenkins
 
 错误监控
 
-## Web安全
+## 前端安全
 
 XSS
 
@@ -239,6 +239,8 @@ Cookie劫持
 传输安全
 
 Oauth
+
+构建前端安全生产体系，给前端同学「稳稳」的幸福 https://mp.weixin.qq.com/s/t-ytDopp6KJKWXBADqq0bg
 
 ## 团队管理
 
