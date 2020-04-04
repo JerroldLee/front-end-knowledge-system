@@ -242,6 +242,11 @@ Oauth
 
 前端安全生产体系 https://mp.weixin.qq.com/s/t-ytDopp6KJKWXBADqq0bg
 
+## 前端智能化
+
+pipcook https://github.com/alibaba/pipcook/tree/master/docs/zh-cn
+
+
 ## 团队管理
 
 工程师发展路径
