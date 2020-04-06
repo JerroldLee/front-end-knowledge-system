@@ -40,6 +40,10 @@ Webpack插件开发
 
 > Puppeteer https://github.com/puppeteer/puppeteer#readme
 
+> pipcook https://github.com/alibaba/pipcook/tree/master/docs/zh-cn
+
+> 用node从零搭建自动化部署管理平台 https://mp.weixin.qq.com/s/9wHRzGktsg7GspMuLqYjiw
+
 ## 自动化测试
 
 单元测试
@@ -245,10 +249,6 @@ Oauth
 > 前端安全生产体系 https://mp.weixin.qq.com/s/t-ytDopp6KJKWXBADqq0bg
 
 > 前端安全实用防御方案 https://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=2650864774&idx=1&sn=f78c455212f2e5a57556fa2449c5c82c
-
-## 前端智能化
-
-> pipcook https://github.com/alibaba/pipcook/tree/master/docs/zh-cn
 
 
 ## 团队管理
