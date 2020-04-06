@@ -36,7 +36,7 @@ LightHouse
 
 > Webpack HMR原理 https://www.cxymsg.com/guide/WebpackHMR.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-hmr
 
-Webpack插件开发
+> 小型打包工具实现 https://juejin.im/book/5bdc715fe51d454e755f75ef/section/5c10c75af265da6135726f6c
 
 > Puppeteer https://github.com/puppeteer/puppeteer#readme
 
