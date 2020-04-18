@@ -166,13 +166,10 @@ Electron
 
 > 浏览器主要组成 https://www.cxymsg.com/guide/browser.html#%E5%B8%B8%E8%A7%81%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8%E6%9C%89%E5%93%AA%E4%BA%9B
 
-## 可视化
+## 可视化开发
 
-canvas
+> 码良 https://github.com/ymm-tech/gods-pen
 
-svg
-
-WebGL
 
 ## 网络协议
 
