@@ -168,7 +168,7 @@ Electron
 
 ## 可视化开发
 
-> 码良 https://github.com/ymm-tech/gods-pen
+> 码良 https://github.com/ymm-tech/gods-pen-server
 
 
 ## 网络协议
