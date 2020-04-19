@@ -32,6 +32,8 @@ LightHouse
 
 > Performance前端性能监控 https://www.jianshu.com/p/1355232d525a
 
+> 通天塔前端性能优化实践 https://mp.weixin.qq.com/s?__biz=MzUyMDAxMjQ3Ng==&mid=2247492229&idx=1&sn=4398b7b00d090cf27b0ea9a725e4b697
+
 ## 工程化
 
 > Webpack HMR原理 https://www.cxymsg.com/guide/WebpackHMR.html#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81-hmr
