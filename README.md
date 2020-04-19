@@ -46,6 +46,8 @@ LightHouse
 
 > 用node从零搭建自动化部署管理平台 https://mp.weixin.qq.com/s/9wHRzGktsg7GspMuLqYjiw
 
+> 探索 webpack5 新特性 Module federation 在腾讯文档的应用 http://www.alloyteam.com/2020/04/14338/
+
 ## 自动化测试
 
 单元测试
