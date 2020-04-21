@@ -28,6 +28,8 @@ Lazy-Load
 
 防抖（debounce）
 
+quicklink https://github.com/GoogleChromeLabs/quicklink
+
 LightHouse
 
 > Performance前端性能监控 https://www.jianshu.com/p/1355232d525a
