@@ -4,6 +4,8 @@
 
 ## 性能优化
 
+性能优化基础知识 https://juejin.im/user/5df79a0cf265da33ed41225d/posts
+
 Gzip
 
 图片优化
